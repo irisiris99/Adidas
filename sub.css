@@ -435,12 +435,12 @@ a:focus {
 .footer2 a {
   font-size: var(--h5-font-size);
   padding: 8px 12px;
-  margin: 8px 12px;
+  margin: 8px;
   color: var(--white-color);
 }
 .footer2 p {
   color: var(--white-color);
-  padding-right: 80px;
+  padding-right: 20px;
 }
 
 @media screen and (max-width: 1025px) {
